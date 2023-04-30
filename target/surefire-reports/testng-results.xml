@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-30T15:49:46 IST" name="Surefire suite" finished-at="2023-04-30T15:49:49 IST" duration-ms="2628">
+    <groups>
+    </groups>
+    <test started-at="2023-04-30T15:49:46 IST" name="Surefire test" finished-at="2023-04-30T15:49:49 IST" duration-ms="2628">
+      <class name="api.test.StudentsTest">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:api.test.StudentsTest@4e91d63f]" started-at="2023-04-30T15:49:46 IST" name="setUpData" finished-at="2023-04-30T15:49:46 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="getAllStudents()[pri:1, instance:api.test.StudentsTest@4e91d63f]" started-at="2023-04-30T15:49:46 IST" name="getAllStudents" finished-at="2023-04-30T15:49:48 IST" duration-ms="1774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllStudents -->
+        <test-method signature="createStudent()[pri:2, instance:api.test.StudentsTest@4e91d63f]" started-at="2023-04-30T15:49:48 IST" name="createStudent" finished-at="2023-04-30T15:49:48 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createStudent -->
+        <test-method signature="getStudent()[pri:3, instance:api.test.StudentsTest@4e91d63f]" started-at="2023-04-30T15:49:48 IST" name="getStudent" finished-at="2023-04-30T15:49:48 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStudent -->
+        <test-method signature="updateStudent()[pri:4, instance:api.test.StudentsTest@4e91d63f]" started-at="2023-04-30T15:49:48 IST" name="updateStudent" finished-at="2023-04-30T15:49:49 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateStudent -->
+        <test-method signature="delStudent()[pri:5, instance:api.test.StudentsTest@4e91d63f]" started-at="2023-04-30T15:49:49 IST" name="delStudent" finished-at="2023-04-30T15:49:49 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delStudent -->
+      </class> <!-- api.test.StudentsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
